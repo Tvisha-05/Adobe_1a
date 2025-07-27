@@ -1,0 +1,7 @@
+pymupdf
+joblib
+scikit-learn
+pandas
+pdfplumber
+pdfminer.six
+PyMuPDF
